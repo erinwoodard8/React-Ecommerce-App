@@ -1,0 +1,28 @@
+.navBar {
+    background-color: #EAB836;
+    font-family: 'Pangolin', cursive;
+    
+   
+  
+    
+}
+
+.navBarHome {
+    font-size: 46px;
+    width:10%;
+   
+}
+.navBarLinks {
+    font-size: 28px;
+    width: 90%;
+    justify-content: center;
+    
+}
+
+.productLink{
+    margin-right: 50px;
+}
+
+.aboutLink{
+    margin-right: 50px;
+}
